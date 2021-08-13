@@ -5,7 +5,8 @@ A combined-cycle power plant is an electrical power plant in which a Gas Turbine
 
 The gas turbine compresses air and mixes it with a fuel heated to a very high temperature. The hot air-fuel mixture moves through the blades, making them spin. The fast-spinning gas turbine drives a generator to generate electricity. The exhaust (waste) heat escaped through the exhaust stack of the gas turbine is utilized by a Heat Recovery Steam Generator (HSRG) system to produce steam that spins a steam turbine. This steam turbine drives a generator to produce additional electricity. CCCP is assumed to produce 50% more energy than a single power plant.
 
-3) Directions to Use:
+
+3)  Directions to Use:
   a) Download the training dataset (exel file) from repo.
   b) Open .ipynb file through Google Collab
   c) Upload the dataset in collab through: Files-->Upload Session Storage--> Select Dataset
