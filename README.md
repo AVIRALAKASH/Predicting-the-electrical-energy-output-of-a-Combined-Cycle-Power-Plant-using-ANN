@@ -8,7 +8,7 @@ The gas turbine compresses air and mixes it with a fuel heated to a very high te
 
 3)  Directions to Use:
   a) Download the training dataset (exel file) from repo.
-  b) Open .ipynb file through Google Collab
+  b) Open .ipynb file through this link: https://colab.research.google.com/github/AVIRALAKASH/Predicting-the-electrical-energy-output-of-a-Combined-Cycle-Power-Plant-using-ANN/blob/main/Predicting_the_electrical_energy_output_of_a_Combined_Cycle_Power_Plant_using_ANN.ipynb
   c) Upload the dataset in collab through: Files-->Upload Session Storage--> Select Dataset
   d) Run the model through: Runtime-->Run All which is going to train the neural network.
   e) Enter desired values of Temp, Pressure, Humidity and Exhaust Vacuum to predict req Energy Output.
